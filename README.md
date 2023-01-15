@@ -5,8 +5,7 @@
 </h1>
 
 <h4 align="left">
-  A Full Stack Web developer skilled in MERN stack. I focuses on
-  writing clean, elegant and efficient code. 
+ I am dedicated and determined aspiring full-stack developer with a specialization in MERN stack. Seeking challenging opportunities to make the best use of my abilities and knowledge to develop both my professional and interpersonal skills, along with fulfilling the organization's growth and goals.
 </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitUnstopable&label=Profile%20Views&color=0e75b6&style=flat" alt="lalit" /> </p>
 <img align="right" width="450px" height="300px" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
